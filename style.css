@@ -1,0 +1,28 @@
+*{
+    background-color: black ;
+}
+h1{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Libre Baskerville', serif;  
+    text-align: center; 
+}
+p{
+    color: white;
+     font-weight: 600;
+    text-align: center;
+}
+img{
+    height: 500px;
+    border: 5px solid white;
+    
+}
+div{
+    width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
